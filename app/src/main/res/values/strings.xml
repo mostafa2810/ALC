@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">A L C</string>
+    <string name="physics_animations">Eltrend apps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zero">0:00</string>
+    <string name="t1">Placement Test</string>
+    <string name="t2">Brief F R3*eef(videos)</string>
+    <string name="t3">Books</string>
+    <string name="t4">Audio Files</string>
+    <string name="t5">Videos</string>
+    <string name="t6">Exams</string>
+    <string name="t7">Contact us</string>
+    <string name="tup">It will be available in the next update within 24h</string>
+
+    <string name="tmm">How to use the app?!</string>
+    <string name="t_level1">Level 1 (Unit1)</string>
+    <string name="t_level2">Level 1 (Unit2)</string>
+    <string name="t_level3">Level 1 (Unit3)</string>
+    <string name="t_level4">Level 1 (Unit4)</string>
+
+    <string name="t_level5">Level 2 (Unit5)</string>
+    <string name="t_level6">Level 2 (Unit6)</string>
+    <string name="t_level7">Level 2 (Unit7)</string>
+    <string name="t_level8">Level 2 (Unit8)</string>
+
+    <string name="t_level9">Level 3 (Unit9)</string>
+    <string name="t_level10">Level 3 (Unit10)</string>
+    <string name="t_level11">Level 3 (Unit11)</string>
+    <string name="t_level12">Level 3 (Unit12)</string>
+
+    <string name="t_level13">Level 4 (Unit13)</string>
+    <string name="t_level14">Level 4 (Unit14)</string>
+    <string name="t_level15">Level 4 (Unit15)</string>
+    <string name="t_level16">Level 4 (Unit16)</string>
+
+    <string name="t_level17">Level 5 (Unit1)</string>
+    <string name="t_level18">Level 5 (Unit2)</string>
+    <string name="t_level19">Level 5 (Unit3)</string>
+    <string name="t_level20">Level 5 (Unit4)</string>
+
+    <string name="t_level21">Level 6 (Unit5)</string>
+    <string name="t_level22">Level 6 (Unit6)</string>
+    <string name="t_level23">Level 6 (Unit7)</string>
+    <string name="t_level24">Level 6 (Unit8)</string>
+
+    <string name="t_level25">Level 7 (Unit9)</string>
+    <string name="t_level26">Level 7 (Unit10)</string>
+    <string name="t_level27">Level 7 (Unit11)</string>
+    <string name="t_level28">Level 7 (Unit12)</string>
+
+    <string name="t_level29">Level 8 (Unit13)</string>
+    <string name="t_level30">Level 8 (Unit14)</string>
+    <string name="t_level31">Level 8 (Unit15)</string>
+    <string name="t_level32">Level 8 (Unit16)</string>
+
+
+    <string name="t_unit1">Unit 1</string>
+    <string name="t_unit2">Unit 2</string>
+    <string name="t_unit3">Unit 3</string>
+    <string name="t_unit4">Unit 4</string>
+    <string name="t_unit5">Unit 5</string>
+    <string name="t_unit6">Unit 6</string>
+    <string name="t_unit7">Unit 7</string>
+    <string name="t_unit8">Unit 8</string>
+    <string name="t_unit9">Unit 9</string>
+    <string name="t_unit10">Unit 10</string>
+    <string name="t_unit11">Unit 11</string>
+    <string name="t_unit12">Unit 12</string>
+    <string name="t_unit13">Unit 13</string>
+    <string name="t_unit14">Unit 14</string>
+    <string name="t_unit15">Unit 15</string>
+    <string name="t_unit16">Unit 16</string>
+    <string name="t_stu1">Level 1 (Student\'s Book)</string>
+    <string name="t_stu2">Level 2 (Student\'s Book)</string>
+    <string name="t_stu3">Level 3 (Student\'s Book)</string>
+    <string name="t_stu4">Level 4 (Student\'s Book)</string>
+    <string name="t_stu5">Level 5 (Student\'s Book)</string>
+    <string name="t_stu6">Level 6 (Student\'s Book)</string>
+    <string name="t_stu7">Level 7 (Student\'s Book)</string>
+    <string name="t_stu8">Level 8 (Student\'s Book)</string>
+    <string name="t_work1">Level 1 (Work Book)</string>
+    <string name="t_work2">Level 2 (Work Book)</string>
+    <string name="t_work3">Level 3 (Work Book)</string>
+    <string name="t_work4">Level 4 (Work Book)</string>
+    <string name="t_work5">Level 5 (Work Book)</string>
+    <string name="t_work6">Level 6 (Work Book)</string>
+    <string name="t_work7">Level 7 (Work Book)</string>
+    <string name="t_work8">Level 8 (Work Book)</string>
+    <string name="t_exam1">Level 1 (Exam)</string>
+    <string name="t_exam2">Level 2 (Exam)</string>
+    <string name="t_exam3">Level 3 (Exam)</string>
+    <string name="t_exam4">Level 4 (Exam)</string>
+    <string name="t_exam5">Level 5 (Exam)</string>
+    <string name="t_exam6">Level 6 (Exam)</string>
+    <string name="t_exam7">Level 7 (Exam)</string>
+    <string name="t_exam8">Level 8 (Exam)</string>
+
+    <string name="t_v1">Level 1 </string>
+    <string name="t_v2">Level 2 </string>
+    <string name="t_v3">Level 3 </string>
+    <string name="t_v4">Level 4 </string>
+    <string name="t_v5">Level 5 </string>
+    <string name="t_v6">Level 6 </string>
+    <string name="t_v7">Level 7 </string>
+    <string name="t_v8">Level 8 </string>
+</resources>

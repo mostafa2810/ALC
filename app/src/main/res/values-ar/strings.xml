@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">A L C</string>
+    <string name="physics_animations">Eltrend apps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zero">0:00</string>
+    <string name="t1">اختبار تحديد المستوى</string>
+    <string name="t2">بريف ف رغيف (ڤيديوهات)</string>
+    <string name="t3">الكتب</string>
+    <string name="t4">ملفات الصوت</string>
+    <string name="t5">الڤيديوهات</string>
+    <string name="t6">الامتحانات</string>
+    <string name="t7">تواصل معنا</string>
+    <string name="tmm">كيف تستخدم التطبيق</string>
+    <string name="tup">سيكون متاح في التحديث القادم خلال 24 ساعة</string>
+    <string name="t_level1">المستوى الاول (الوحدة 1)</string>
+    <string name="t_level2">المستوى الاول (الوحدة 2)</string>
+    <string name="t_level3">المستوى الاول (الوحدة 3)</string>
+    <string name="t_level4">المستوى الاول (الوحدة 4)</string>
+
+    <string name="t_level5">المستوى الثاني (الوحدة 5)</string>
+    <string name="t_level6">المستوى الثاني (الوحدة 6)</string>
+    <string name="t_level7">المستوى الثاني (الوحدة 7)</string>
+    <string name="t_level8">المستوى الثاني (الوحدة 8)</string>
+
+    <string name="t_level9">المستوى الثالث (الوحدة 9)</string>
+    <string name="t_level10">المستوى الثالث (الوحدة 10)</string>
+    <string name="t_level11">المستوى الثالث (الوحدة 11)</string>
+    <string name="t_level12"> المستوى الثالث (الوحدة 12)</string>
+
+    <string name="t_level13">المستوى الرابع (الوحدة 13)</string>
+    <string name="t_level14">المستوى الرابع (الوحدة 14)</string>
+    <string name="t_level15">المستوى الرابع (الوحدة 15)</string>
+    <string name="t_level16">المستوى الرابع (الوحدة 16)</string>
+
+    <string name="t_level17">المستوى الخامس (الوحدة 1)</string>
+    <string name="t_level18">المستوى الخامس (الوحدة 2)</string>
+    <string name="t_level19">المستوى الخامس (الوحدة 3)</string>
+    <string name="t_level20">المستوى الخامس (الوحدة 4)</string>
+
+    <string name="t_level21">المستوى السادس (الوحدة 5)</string>
+    <string name="t_level22">المستوى السادس (الوحدة 6)</string>
+    <string name="t_level23">المستوى السادس (الوحدة 7)</string>
+    <string name="t_level24">المستوى السادس (الوحدة 8)</string>
+
+    <string name="t_level25">المستوى السابع (الوحدة 9)</string>
+    <string name="t_level26">المستوى السابع (الوحدة 10)</string>
+    <string name="t_level27">المستوى السابع (الوحدة 11)</string>
+    <string name="t_level28">المستوى السابع (الوحدة 12)</string>
+
+    <string name="t_level29">المستوى الثامن (الوحدة 13)</string>
+    <string name="t_level30">المستوى الثامن (الوحدة 14)</string>
+    <string name="t_level31">المستوى الثامن (الوحدة 15)</string>
+    <string name="t_level32">المستوى الثامن (الوحدة 16)</string>
+
+    <string name="t_unit1">الوحدة الاولى</string>
+    <string name="t_unit2">الوحدة الثانية</string>
+    <string name="t_unit3">الوحدة الثالثة</string>
+    <string name="t_unit4">الوحدة الرابعة</string>
+    <string name="t_unit5">الوحدة الخامسة</string>
+    <string name="t_unit6">الوحدة السادسة</string>
+    <string name="t_unit7">الوحدة السابعة</string>
+    <string name="t_unit8">الوحدة الثامنة</string>
+    <string name="t_unit9">الوحدة التاسعة</string>
+    <string name="t_unit10">الوحدة العاشرة</string>
+    <string name="t_unit11">الوحدة الحادية عشر</string>
+    <string name="t_unit12">الوحدة الثانية عشر</string>
+    <string name="t_unit13">الوحدة الثالثة عشر</string>
+    <string name="t_unit14">الوحدة الرابعة عشر</string>
+    <string name="t_unit15">الوحدة الخامسة عشر</string>
+    <string name="t_unit16">الوحدة السادسة عشر</string>
+    <string name="t_stu1">المستوى الاول (كتاب الطالب)</string>
+    <string name="t_stu2">المستوى الثاني (كتاب الطالب)</string>
+    <string name="t_stu3">المستوى الثالث (كتاب الطالب)</string>
+    <string name="t_stu4">المستوى الرابع (كتاب الطالب)</string>
+    <string name="t_stu5">المستوى الخامس (كتاب الطالب)</string>
+    <string name="t_stu6">المستوى السادس (كتاب الطالب)</string>
+    <string name="t_stu7">المستوى السابع (كتاب الطالب)</string>
+    <string name="t_stu8">المستوى الثامن (كتاب الطالب)</string>
+    <string name="t_work1">المستوى الاول (كتاب التدريبات)</string>
+    <string name="t_work2">المستوى الثاني (كتاب التدريبات)</string>
+    <string name="t_work3">المستوى الثالث (كتاب التدريبات)</string>
+    <string name="t_work4">المستوى الرابع (كتاب التدريبات)</string>
+    <string name="t_work5">المستوى الخامس (كتاب التدريبات)</string>
+    <string name="t_work6">المستوى السادس (كتاب التدريبات)</string>
+    <string name="t_work7">المستوى السابع (كتاب التدريبات)</string>
+    <string name="t_work8">المستوى الثامن (كتاب التدريبات)</string>
+    <string name="t_exam1">امتحان المستوى الاول</string>
+    <string name="t_exam2">امتحان المستوى الثاني</string>
+    <string name="t_exam3">امتحان المستوى الثالث</string>
+    <string name="t_exam4">امتحان المستوى الرابع</string>
+    <string name="t_exam5">امتحان المستوى الخامس</string>
+    <string name="t_exam6">امتحان المستوى السادس</string>
+    <string name="t_exam7">امتحان المستوى السابع</string>
+    <string name="t_exam8">امتحان المستوى الثامن</string>
+
+    <string name="t_v1">المستوى الاول</string>
+    <string name="t_v2">المستوى الثاني</string>
+    <string name="t_v3">المستوى الثالث</string>
+    <string name="t_v4">المستوى الرابع</string>
+    <string name="t_v5">المستوى الخامس</string>
+    <string name="t_v6">المستوى السادس</string>
+    <string name="t_v7">المستوى السابع</string>
+    <string name="t_v8">المستوى الثامن</string>
+</resources>
